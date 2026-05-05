@@ -5,3 +5,6 @@ litellm
 pydantic
 sympy
 python-dotenv
+numpy
+pandas
+matplotlib
