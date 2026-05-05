@@ -1,0 +1,7 @@
+HuggingFace
+streamlit
+smoleagents
+litellm
+sydantic
+sympy
+dotenv
