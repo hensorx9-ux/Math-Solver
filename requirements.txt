@@ -1,7 +1,7 @@
-HuggingFace
+huggingface_hub
 streamlit
-smoleagents
+smolagents
 litellm
-sydantic
+pydantic
 sympy
-dotenv
+python-dotenv
